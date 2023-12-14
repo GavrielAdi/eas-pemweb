@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import BeforeAuth from '../views/Home.vue'
+import Home from '../views/Home.vue'
 import AfterAuth from '../views/AfterAuth.vue'
 import SignIn from '../views/SignIn.vue'
 import SignUp from '../views/SignUp.vue'
